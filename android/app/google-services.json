@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024864879199",
+    "project_id": "koora365-40e1f",
+    "storage_bucket": "koora365-40e1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024864879199:android:11c43523a5dbc084ea91ea",
+        "android_client_info": {
+          "package_name": "com.matchtracker.match_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024864879199-4mb4ie85p7k243rkhn4l6nhd74v1tbcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtz9scicSGBp9rMniAuVUM826sHJCKLMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024864879199-4mb4ie85p7k243rkhn4l6nhd74v1tbcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
